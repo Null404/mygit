@@ -2,4 +2,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-this sentence is different with feature1 branch
+=======
+creating a new branch is quick and simple.
+>>>>>>> feature1
