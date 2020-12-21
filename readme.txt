@@ -8,3 +8,4 @@ master sentence
 edit by dev branch
 test git stash by dev branch
 fix bug edit by issus-101 branch
+add author
