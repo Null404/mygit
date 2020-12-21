@@ -5,3 +5,4 @@ Git tracks changes of files.
 creating a new branch is quick and simple.
 this sentence is create by branch dev
 master sentence
+edit by dev branch
