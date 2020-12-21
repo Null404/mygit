@@ -6,3 +6,5 @@ creating a new branch is quick and simple.
 this sentence is create by branch dev
 master sentence
 edit by dev branch
+test git stash by dev branch
+fix bug edit by issus-101 branch
